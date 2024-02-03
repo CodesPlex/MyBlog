@@ -2,6 +2,8 @@
 > 作者：hipython2023
 >
 > 说明：是根据个人喜好收藏的仓库
+> 
+> 尊重项目原创性！
 ## [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~【1.1GB】
 ## [EmojiPackage](https://github.com/getActivity/EmojiPackage)
