@@ -38,7 +38,7 @@ sudo apt-get install -y postfix
 sudo dpkg -i downloal.deb
 ~~~
 
-编辑文件
+编辑文件，修改成自己的网址地址
 
 ~~~sh
 sudo vim /etc/gitlab/gitlab.rb
