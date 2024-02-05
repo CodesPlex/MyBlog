@@ -41,7 +41,7 @@ sudo dpkg -i downloal.deb
 编辑文件
 
 ~~~sh
-vim /etc/gitlab/gitlab.rb
+sudo vim /etc/gitlab/gitlab.rb
 ~~~
 
 重新启动GitLab
