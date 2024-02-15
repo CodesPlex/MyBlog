@@ -19,5 +19,5 @@
 | 关闭Windows自动更新   | 永久暂停Windows的自动更新                          | [Windows/Turn-off-Windows11-automatic-updates.md](Windows/Turn-off-Windows11-automatic-updates.md) |
 | 卸载小组件            | 卸载全是广告的Windows11小组件                      | [Windows/Uninstall-widgets.md](Windows/Uninstall-widgets.md) |
 
-  **博客有作者整理，尊重项目原创性，谢谢！**
+
 
